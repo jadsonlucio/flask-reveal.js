@@ -25,3 +25,6 @@ Slides : ["slide1.html","slide2.html"]
 ```
 
 4. Run python demo.py to run your presentation. 
+
+# License
+[MIT](https://choosealicense.com/licenses/mit/)
